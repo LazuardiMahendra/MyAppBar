@@ -78,4 +78,6 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
 
+    <string name="searchbar_hint">Masukkan kata</string>
+
 </resources>
